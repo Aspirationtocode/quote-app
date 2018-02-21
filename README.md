@@ -2,7 +2,7 @@
 
 ### Description
 
-> Simple app for comparing brands
+> Simple app for quotes
 
 ### Client Technologies
 

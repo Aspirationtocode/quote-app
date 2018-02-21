@@ -7,5 +7,11 @@ export default {
 				loader: 'babel-loader',
 			},
 		},
+		{
+			test: /\.(eot|svg|ttf|woff|woff2|otf)$/,
+			use: {
+				loader: 'file-loader',
+			},
+		},
 	],
 };
